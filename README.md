@@ -9,13 +9,13 @@ I’m here to help coaches thrive in the digital age.
 
 ### 🚀 About Me
 - **🌟 Interests:** I’m deeply invested in Digital Sports Marketing, particularly in crafting **web solutions for sports coaches** In my website you can find my portfolio 💼
-- **📚 Currently Learning:** Improving my skills in **Git**☄️, **Python**🐍 , and **Linux/GNU🐧** for more versatile project management and development.
-- **🌍 Fun Fact:** I’ve traveled to **17 countries** as a sports consultant, connecting with coaches globally. and i 
+- **📚 Currently Learning:** Improving my skills in **JAVA**♨️ **SQL**🗄️ **Git**☄️, **Python**🐍 , & **Linux/GNU🐧** for more versatile project management and development.
+- **🌍 Fun Fact:** I’ve traveled to **17 countries** as a sports consultant, connecting with coaches globally. and I´m looking to develop my own ERP for gymnastics clubs.
 
 ---
 
 ### 🤝 How I Can Help
-If you’re a sports coach looking for a:
+If you’re a sports coach or club owner looking for a:
 - Professional **website** for your coaching business
 - Customized **digital marketing strategy**
 - Tools to **analyze and improve performance**
